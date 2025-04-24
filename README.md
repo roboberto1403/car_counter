@@ -69,15 +69,29 @@ Você será guiado pelas seguintes etapas:
 
 ---
 
-## 📄 Relatório
+## 📄 Relatórios
 
-O relatório final será salvo na pasta:
+Dois arquivos são gerados ao final da análise: `relatorio.csv` e `distribuicao_temporal.csv`.
+
+- **relatorio.csv**: contém informações resumidas sobre o vídeo analisado, incluindo:
+
+  - Nome do vídeo
+  - Total de carros detectados
+  - Tempo total em sinal verde e vermelho
+  - Média de carros que passaram por ciclo verde
+  - Taxa de passagem de carros por segundo
+
+- **distribuicao\_temporal.csv**: apresenta dados detalhados por segundo, incluindo:
+
+  - Tempo (em segundos)
+  - Quantidade de carros detectados no frame
+  - Estado do semáforo naquele instante
+
+Os arquivos serão salvos na pasta:
 
 ```
 relatorios/relatorio.csv
 ```
-
-Este arquivo contém o número de veículos contados em diferentes estágios do semáforo (verde, amarelo, vermelho).
 
 ---
 
