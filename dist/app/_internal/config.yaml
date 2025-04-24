@@ -1,0 +1,11 @@
+line_position:
+- 123
+- 1173
+- 1659
+- 1081
+roi_traffic_light:
+- 1336
+- 264
+- 1430
+- 495
+video_path: D:/Downloads/video_2.mp4
