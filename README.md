@@ -97,5 +97,5 @@ Este arquivo contém o número de veículos contados em diferentes estágios do 
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença [MIT](https://opensource.org/license/MIT).
 
