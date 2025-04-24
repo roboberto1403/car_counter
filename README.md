@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### 3. Execute o sistema
 
-Clique no executável app localizado dentro da pasta dist
+Clique no executável *app* localizado dentro da pasta *dist*
 
 Você será guiado pelas seguintes etapas:
 
