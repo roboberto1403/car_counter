@@ -99,6 +99,7 @@ relatorios/relatorio.csv
 
 - A definição da linha e da ROI do semáforo é interativa, com opção de corrigir antes de salvar.
 - O código é modular e pode ser adaptado para novos cenários (semáforos múltiplos, diferentes modelos de detecção, etc).
+- Sugestão de vídeo a ser utilizado: [link](https://www.pexels.com/video/busy-urban-traffic-flow-at-intersection-30609021/). 
 
 ---
 
